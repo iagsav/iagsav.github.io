@@ -1,0 +1,40 @@
+???????? 'procmanyfilesv2_linux.R' __????????__
+
+Fatal error: ?? ?????? ?????? '--save', '--no-save' ??? '--vanilla'
+         used (Mb) gc trigger (Mb) max used (Mb)
+Ncells  84380  4.6     350000 18.7   285207 15.3
+Vcells 173352  1.4     786432  6.0   561777  4.3
+Ошибка в source("imread.R") :imread.R:1:1: неожиданный ввод
+1: �
+    ^
+Выполнение остановлено
+         used (Mb) gc trigger (Mb) max used (Mb)
+Ncells  84380  4.6     350000 18.7   285207 15.3
+Vcells 173352  1.4     786432  6.0   561777  4.3
+Ошибка в source("imread.R") :imread.R:1:1: неожиданный ввод
+1: �
+    ^
+Выполнение остановлено
+???????? 'search_1_1_bin_big_linux.R' __????????__
+
+Fatal error: ?? ?????? ?????? '--save', '--no-save' ??? '--vanilla'
+/usr/lib64/R/bin/BATCH: line 60: 25610 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 26116 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 29302 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 29689 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60:  6221 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 14148 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60:   656 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 10820 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 11052 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 11411 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 13425 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 32258 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60:  3446 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60:  3599 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60:  9336 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60:  9592 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60:  9797 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 15261 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60:  4038 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/usr/lib64/R/bin/BATCH: line 60: 14942 Завершено      ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1

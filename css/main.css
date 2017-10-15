@@ -158,22 +158,31 @@ a:link:hover, a:visited:hover {
   width: 230px;
   float: left;
   padding-right: 50px;
-  padding-top: 96px;
+  padding-top: 90px;
   list-style-type: none;
   line-height: 20px;
+  font-size: 18px;
+  line-height: 29px;
+
+
 }
 
 #contact li {
   width: 230px;
   overflow: hidden;
   margin-bottom: 5px;
+  font-size: 18px;
+
 }
 
 #contact li span {
   float: left;
+  font-size: 18px;
+
 }
 
 #contact li strong {
+  font-size: 18px;
   float: right;
   text-align: right;
   color: #3c3c3c;

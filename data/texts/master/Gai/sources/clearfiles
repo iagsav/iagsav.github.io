@@ -1,1 +1,0 @@
-find /home/vgai/images -type f -name "*.rdata" -delete
